@@ -9,7 +9,7 @@ git の submodule をテストする用のリポジトリです。
 次の手順で submodule に一部のファイルのみ取り込むようにしてください。
 
 1. 本リポジトリを git clone する
-2. PowerShell で スクリプトを実行する
+2. PowerShell で スクリプト `setup.ps1` を実行する
 
 コマンド例
 
